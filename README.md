@@ -18,4 +18,4 @@
 
 # การ distribute
 
-หากผู้อ่านต้องการแก้ไขหรือกำหนดเงื่อนไขขึ้นเอง สามารถ fork และเผยแพร่ในเวอร์ชั่นของตนเองได้ ทั้งนี้กรรมการจะไม่มีส่วนเกี่ยวข้องกับการตัดสินใน distribute อื่นนอกเหนือจาก [MinecraftChannel/project-shiro](https://github.com/MinecraftChannel/project-shiro) ผู้ดำเนินการจะต้องปฏิบัติตาม [License (GPLv3)](LICENSE.md) ที่กำหนดด้วย
+หากผู้อ่านต้องการแก้ไขหรือกำหนดเงื่อนไขขึ้นเอง สามารถ fork และเผยแพร่ในเวอร์ชั่นของตนเองได้ ทั้งนี้กรรมการจะไม่มีส่วนเกี่ยวข้องกับการตัดสินใน distribute อื่นนอกเหนือจาก [MinecraftChannel/project-shiro](https://github.com/MinecraftChannel/project-shiro) ผู้ดำเนินการจะต้องปฏิบัติตาม [License (GPLv3)](COPYING.md) ที่กำหนดด้วย
