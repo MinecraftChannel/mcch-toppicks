@@ -1,4 +1,8 @@
-# เงื่อนไขการพิจารณา
+# MCCH Top-Picks
+
+โครงการที่จะรวบรวมเซิร์ฟเวอร์ไมน์คราฟต์ที่มีคุณภาพในประเทศไทย โดยยึดจากเงื่อนไขการพิจารณาของโครงการนี้
+
+## เงื่อนไขการพิจารณา
 
 กรรมการจะพิจารณาเซิร์ฟเวอร์ตามเงื่อนไขเบื้องต้นดังต่อไปนี้
 
@@ -14,14 +18,14 @@
 
 เซิร์ฟเวอร์จะต้องผ่านการโหวตและพิจารณาเพิ่มเติมจากกรรมการก่อนได้รับการยืนยัน
 
-# การ contribute
+## การ contribute
 
-หากต้องการเสนอ, แก้ไข, เพิ่ม/ลดเงื่อนไขการพิจารณา สามารถสร้าง [Issue](https://github.com/MinecraftChannel/project-shiro/issues) หรือส่ง [Pull Request](https://github.com/MinecraftChannel/project-shiro/pulls) มาเพื่อให้กรรมการพิจารณาได้
+หากต้องการเสนอ, แก้ไข, เพิ่ม/ลดเงื่อนไขการพิจารณา สามารถสร้าง [Issue](https://github.com/MinecraftChannel/mcch-toppicks/issues) หรือส่ง [Pull Request](https://github.com/MinecraftChannel/mcch-toppicks/pulls) มาเพื่อให้กรรมการพิจารณาได้
 
-# การ distribute
+## การ distribute
 
-หากผู้อ่านต้องการแก้ไขหรือกำหนดเงื่อนไขขึ้นเอง สามารถ fork และเผยแพร่ในเวอร์ชั่นของตนเองได้ ทั้งนี้กรรมการจะไม่มีส่วนเกี่ยวข้องกับการตัดสินใน distribute อื่นนอกเหนือจาก [MinecraftChannel/project-shiro](https://github.com/MinecraftChannel/project-shiro) ผู้ดำเนินการจะต้องปฏิบัติตาม [License (GPLv3)](COPYING.md) ที่กำหนดด้วย
+หากผู้อ่านต้องการแก้ไขหรือกำหนดเงื่อนไขขึ้นเอง สามารถ fork และเผยแพร่ในเวอร์ชั่นของตนเองได้ ทั้งนี้กรรมการจะไม่มีส่วนเกี่ยวข้องกับการตัดสินใน distribute อื่นนอกเหนือจาก [MinecraftChannel/mcch-toppicks](https://github.com/MinecraftChannel/mcch-toppicks) ผู้ดำเนินการจะต้องปฏิบัติตาม [License (GPLv3)](COPYING.md) ที่กำหนดด้วย
 
-# Copyright
+## Copyright
 
 Copyright &copy; 2021 [Minecraft Channel](https://github.com/MinecraftChannel)
