@@ -24,8 +24,14 @@
 
 ## การ distribute
 
-หากผู้อ่านต้องการแก้ไขหรือกำหนดเงื่อนไขขึ้นเอง สามารถ fork และเผยแพร่ในเวอร์ชั่นของตนเองได้ ทั้งนี้กรรมการจะไม่มีส่วนเกี่ยวข้องกับการตัดสินใน distribute อื่นนอกเหนือจาก [MinecraftChannel/mcch-toppicks](https://github.com/MinecraftChannel/mcch-toppicks) ผู้ดำเนินการจะต้องปฏิบัติตาม [License (GPLv3)](COPYING.md) ที่กำหนดด้วย
+ผู้อ่านสามารถดัดแปลง, แก้ไข, และเผยแพร่ร่างการพิจารณานี้ในเวอร์ชั่นของตนเองได้ ทั้งนี้กรรมการจะไม่มีส่วนเกี่ยวข้องกับการตัดสินใน distribute อื่นนอกเหนือจาก [MinecraftChannel/mcch-toppicks](https://github.com/MinecraftChannel/mcch-toppicks) ผู้ดำเนินการจะต้องปฏิบัติตาม [License (CC BY 4.0)](LICENSE) ที่กำหนดด้วย
 
 ## Copyright
 
-Copyright &copy; 2021 [Minecraft Channel](https://github.com/MinecraftChannel)
+Copyright &copy; 2021 [Minecraft Channel](https://github.com/MinecraftChannel) and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
